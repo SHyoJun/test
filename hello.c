@@ -1,6 +1,9 @@
+#include <stdio.h>
 
-cd git_tutorial
-
+int main(){
+   printf("hellow c\n");
+   return 0;
+}
 
 
 
